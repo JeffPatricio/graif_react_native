@@ -15,7 +15,17 @@ The project was developed using the following technologies:
 
 ## Print Main Screen
 
+This is a screenshot of the main screen of the Graif app.
+
 ![Graif](demo/Main.png)
+
+## Demo
+
+This is a GIF showing a simple demonstration of the use of the app.
+
+![Graif](demo/DemoMain.gif)
+
+Note: The demonstration Gif is losing quality
 
 ## References
 
