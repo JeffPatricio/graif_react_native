@@ -15,7 +15,7 @@ The project was developed using the following technologies:
 
 ## Print Main Screen
 
-![Graif](demo/Main.png=150x300)
+![Graif](demo/Main.png)
 
 ## References
 
